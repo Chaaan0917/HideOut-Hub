@@ -24,7 +24,8 @@ OtherTab:AddToggle({
         
         game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Events"):WaitForChild("MergeGears"):FireServer(unpack(args))
         wait()
-	end    
+	end
+end
 })
 
 OtherTab:AddToggle({
@@ -38,7 +39,8 @@ OtherTab:AddToggle({
         
         game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Events"):WaitForChild("MergeGears"):FireServer(unpack(args))
         wait()
-	end    
+	end
+end
 })
 
 OtherTab:AddToggle({
@@ -52,7 +54,8 @@ OtherTab:AddToggle({
         
         game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Events"):WaitForChild("MergeGears"):FireServer(unpack(args))
         wait()
-	end    
+	end
+end
 })
 
 OtherTab:AddToggle({
@@ -66,7 +69,8 @@ OtherTab:AddToggle({
         
         game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Events"):WaitForChild("MergeGears"):FireServer(unpack(args))
         wait()
-	end    
+	end
+end
 })
 
 OtherTab:AddToggle({
@@ -80,7 +84,8 @@ OtherTab:AddToggle({
         
         game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Events"):WaitForChild("MergeGears"):FireServer(unpack(args))
         wait()
-	end    
+	end
+end
 })
 
 OtherTab:AddToggle({
